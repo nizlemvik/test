@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Deniz O. Cevik"
   avatar           : "profile.png"
-  bio              : "Policy Analyst @ INFC, <br> PhD Candidate @ ENAP"
+  bio              : "Policy Analyst @ INFC <br> PhD Candidate @ ENAP"
   location         : "Montréal, QC"
   employer         :
   email            : "deniz.cevik@enap.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Deniz-Cevik"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nizlemvik"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/deniz-cevik/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
