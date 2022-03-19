@@ -16,7 +16,7 @@ My research is a story about understanding this triangle of of three aspects of 
 
 I hold a Master of Arts degree from the Department of History and a Master of Science degree from the School of Information Studies at McGill University, Montréal, QC.
 
-I am a PhD Candidate at École nationale d'administration publique and my doctoral project is supervised by Prof. Tatiana Garakani. I work as Policy Analyst at the Government of Canada and as Researcher at École nationale d'administration publique as part of the REGARDS research team. 
+I am a PhD Candidate at École nationale d'administration publique and my doctoral project is supervised by Prof. Tatiana Garakani. I work as Policy Analyst at the Government of Canada and as Researcher at École nationale d'administration publique as part of the [REGARDS](https://regardsrecherche.com/) research team. 
 
 
 
