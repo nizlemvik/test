@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+1. Immigrec Project
 
-{% include base_path %}
+2. McGill University Database Development Project
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+3. Montréal Nord - Cartography project
