@@ -14,6 +14,7 @@ Education
 * B.A. Bogazici University, 2014
 * M.A. McGill University, 2016
 * M.Si. McGill University, 2020
+* Certificate of Data Science, University of Waterloo & University of Toronto, 2022 (expected)
 * Ph.D École nationale d'administration publique, 2025 (expected)
 
 Work experience
