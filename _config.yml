@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home&nbsp;&nbsp;&nbsp;"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Deniz O. Cevik"
 description              : &description "Policy Analyst & PhD Candidate"
