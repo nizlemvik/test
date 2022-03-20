@@ -18,15 +18,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-Present: Policy Analyst, Government of Canada
+* 2020-2021: Information Management Officer, Government of Canada
+* 2019-2020: Student, Government of Canada
+* 2018-2020: Research Administrator, McGill University
+* 2018-2019: Database Developer, McGill University
+* 2014-2018: Teaching Assistant, McGill University
   
 Skills
 ======
